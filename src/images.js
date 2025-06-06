@@ -1,0 +1,20 @@
+export const images = {
+  17933:
+    "https://www.renewableenergymarketing.net/wp-content/uploads/2015/12/4-Yard-skip.jpg",
+  17934:
+    "https://www.renewableenergymarketing.net/wp-content/uploads/2015/12/6-Yard-skip.jpg",
+  17935:
+    "https://www.renewableenergymarketing.net/wp-content/uploads/2015/12/8-Yard-skip.jpg",
+  17936:
+    "https://www.renewableenergymarketing.net/wp-content/uploads/2015/12/10-Yard-skip.jpg",
+  17937:
+    "https://www.renewableenergymarketing.net/wp-content/uploads/2015/12/12-Yard-skip.jpg",
+  17938:
+    "https://www.aceskiphire.co.uk/hosted/images/d2/7c45e99f5b46faa4bd1e8112b346b4/12-Yard-skip.jpg",
+  17939:
+    "https://skipsnottingham.co.uk/wp-content/uploads/2017/01/16-Yard-skip.png",
+  15124:
+    "https://www.renewableenergymarketing.net/wp-content/uploads/2015/12/20-Yard-skip-ro-ro.png",
+  15125:
+    "https://www.renewableenergymarketing.net/wp-content/uploads/2015/12/40-Yard-skip-ro-ro.png",
+};
