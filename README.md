@@ -1,12 +1,33 @@
-# React + Vite
+# 📦 Wewantwaste Skip Size Page Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a redesign of the "Choose Your Skip Size" page on the WeWantWaste website. The goal was to give the page a completely different look while keeping all existing functionality.
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React** (JavaScript)
+- **Tailwind CSS** – for rapid, responsive, and maintainable styling
+- **Fetch API** – for retrieving skip data from the API
 
-## Expanding the ESLint configuration
+## 🎯 Design Approach
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Since the task did not specify any styling framework, I chose **Tailwind CSS** as it's both efficient and well-suited for responsive UI development.
+- I used the **brand color** (`#ff8a00`) from the official website to ensure consistency with the company’s identity.
+- I implemented both **dark mode** and **light mode** to enhance accessibility and user experience.
+- Skip options are dynamically fetched from api.
+- Product images were sourced from the official website. A few missing ones with similar alternatives found online.
+
+## 🖥️ Features
+
+- Fully responsive layout (mobile & desktop)
+- Clean and accessible UI
+- Data fetched from live API
+- Light/Dark mode toggle
+- Brand-consistent color scheme
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gmzseverr/wewantwaste-redesign.git
+   cd wewantwaste-redesign
+   ```

@@ -14,9 +14,9 @@ export default function ProductList({ selectedProduct, onSelect }) {
   }, []);
 
   return (
-    <div className="  lg:p-52 p-22 lg:pt-8 pt-12 pb-32 ">
-      <div className="flex flex-col   items-center pb-8 gap-0">
-        <h2 className="text-2xl text-shadow-lg font-bold dark:text-white text-neutral-700 ">
+    <div className="  lg:p-52 p-18  lg:pt-8 pt-12 pb-32 ">
+      <div className="flex flex-col justify-center text-center  items-center pb-8 gap-0">
+        <h2 className="text-2xl  font-bold dark:text-white text-neutral-700 ">
           Choose Your Skip Size
         </h2>
         <p className="text-xs text-neutral-500">

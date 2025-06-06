@@ -12,7 +12,7 @@ export default function ProductCard({ product, onSelect, isSelected }) {
   return (
     <div
       onClick={() => onSelect(product)}
-      className={` dark:bg-[#1a1a1a]  bg-white rounded-lg hover:translate-y-1 shadow transition cursor-pointer overflow-hidden
+      className={` dark:bg-[#1a1a1a] max-w-fit h-full  bg-white rounded-lg hover:translate-y-1 shadow transition cursor-pointer overflow-hidden
       ${
         isSelected
           ? "shadow-[#ff8a00] shadow-lg shadow-[#ff8a00]-500"
