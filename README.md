@@ -24,10 +24,7 @@ This project is a redesign of the "Choose Your Skip Size" page on the WeWantWast
 - Light/Dark mode toggle
 - Brand-consistent color scheme
 
-## 📦 Installation
+## 🔗 Live Demo
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gmzseverr/wewantwaste-redesign.git
-   cd wewantwaste-redesign
-   ```
+You can see the live version of the redesign here:  
+[https://wewantwaste-redesign-rem.netlify.app/](https://wewantwaste-redesign-rem.netlify.app/)
